@@ -1,3 +1,10 @@
+# Local Research Trail data and downloaded papers
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
